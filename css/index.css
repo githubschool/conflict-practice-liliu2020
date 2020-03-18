@@ -14,13 +14,28 @@ body{
 	overflow-x:hidden;
 
 }
-
+ css-changes
+a {
+ HEAD
+	color: #000;
 
 /**a{
 	color: #999999;
+ master
 }
+
+a:hover{
+	color: #fff;
+=======
+	color: #999999;
+}
+
 a:hover{
 	color: #dddddd;
+ css-changes
+ master
+
+ master
 }
 **/
 
